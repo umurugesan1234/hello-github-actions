@@ -1,4 +1,4 @@
-## Welcome to "Hello World" with GitHub Actions
+## Welcome to "Hello World" with GitHub Actions - Muru
 
 This course will walk you through writing your first action and using it with a workflow file. 
 
